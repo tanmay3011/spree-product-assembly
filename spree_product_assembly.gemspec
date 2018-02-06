@@ -17,7 +17,7 @@ Gem::Specification.new do |s|
 
   s.add_dependency 'spree_backend', '~> 3.1.0.beta'
 
-  s.add_development_dependency 'active_model_serializers', '~> 0.8.3'
+  s.add_development_dependency 'active_model_serializers', '~> 0.8'
   s.add_development_dependency 'capybara', '~> 2.4'
   s.add_development_dependency 'coffee-rails', '~> 4.0.0'
   s.add_development_dependency 'database_cleaner', '~> 1.4'
